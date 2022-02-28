@@ -1,5 +1,5 @@
 # AI
-##공부 할 링크
+## 공부 할 링크
 ### https://cs231n.github.io/convolutional-networks/
 ### https://www.deeplearningbook.org/contents/intro.html
 ### https://d2l.ai/
